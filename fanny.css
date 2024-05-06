@@ -1,0 +1,76 @@
+.section1{
+    height: 60px;
+    background-color: rgb(37, 3, 37);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section1 ul li{
+    list-style: none;
+    display: inline;
+
+}
+.section1 ul li a{
+    color: aliceblue;
+    padding-right: 30px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.section1 ul li :hover{
+    background-color:rgb(5, 43, 30);
+    border-radius: 5px;
+    color: rgb(240, 245, 232);
+    padding: 5px;
+    }
+    .section2{
+        display: flex;
+        justify-content: space-between;
+        padding-top: 5px;
+        font-size: 25px;
+      
+        background-color: rgb(12, 44, 33);
+        color: bisque;
+        margin-top: 10px;
+        border-radius: 20px;
+
+    }
+    .image img{
+        height: 200px;
+        width: 350px;
+        
+    }
+    .section3 h4{
+        font-size: 32px;
+    }
+    .section3 h3{
+        font-size: 38px;
+    }
+    .image1{
+        display: flex;
+        justify-content: space-between;
+    }
+    .image1 img{
+        height: 80px;
+        width: 120px;
+    }
+     .footer{
+        background-color: rgb(12, 66, 66);
+        height: 70px;
+        padding-top: 30px;
+        display: flex;
+        justify-content: center;
+        font-size:xx-large;
+       
+        display: flex;
+        color: aliceblue;
+    }
+    .footer{
+        height: 60px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+    .footer{
+        
+    }
